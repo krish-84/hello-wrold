@@ -1,6 +1,6 @@
 # hello-wrold
 first repository
-master addition
+master deletion
 These are the changes in the repository
 1
 2
