@@ -6,6 +6,8 @@ master addition
 
 master new addition
 
+master third addition
+
 These are the changes in the repository
 1
 2
