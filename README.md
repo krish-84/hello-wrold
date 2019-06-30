@@ -4,6 +4,8 @@ master deletion
 
 master addition
 
+master new addition
+
 These are the changes in the repository
 
 first branch addition
